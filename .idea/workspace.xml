@@ -24,8 +24,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0">
               <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+=======
+            <state vertical-scroll-proportion="0.26678142">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+>>>>>>> 2c74903a071ca6c6f141e136a2b5cbe473f5a20c
               <folding />
             </state>
           </provider>
@@ -227,6 +232,7 @@
       <option name="project" value="LOCAL" />
       <updated>1439441876968</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00006" summary="jayan">
       <created>1439443368742</created>
       <option name="number" value="00006" />
@@ -238,6 +244,19 @@
       <option name="number" value="00007" />
       <option name="project" value="LOCAL" />
       <updated>1439443441162</updated>
+=======
+    <task id="LOCAL-00006" summary="Adding bootstrap">
+      <created>1439442080621</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1439442080621</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding bootstrap">
+      <created>1439442457743</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1439442457743</updated>
+>>>>>>> 2c74903a071ca6c6f141e136a2b5cbe473f5a20c
     </task>
     <option name="localTasksCounter" value="8" />
     <servers />
@@ -299,8 +318,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+=======
+        <state vertical-scroll-proportion="0.26678142">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+>>>>>>> 2c74903a071ca6c6f141e136a2b5cbe473f5a20c
           <folding />
         </state>
       </provider>
