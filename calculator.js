@@ -13,3 +13,11 @@ function mul(a, b) {
 function div(a, b) {
     return a / b;
 }
+
+function squareRoot(a) {
+    return Math.sqrt(a);
+}
+
+function cubicRoot(a){
+    return Math.cbrt(a);
+}
